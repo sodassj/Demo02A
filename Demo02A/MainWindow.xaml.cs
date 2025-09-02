@@ -16,6 +16,7 @@ namespace Demo02A
     /// </summary>
     public partial class MainWindow : Window
     {
+        //Mi prueba
         public MainWindow()
         {
             InitializeComponent();
